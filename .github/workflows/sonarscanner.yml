@@ -21,7 +21,7 @@ on:
     inputs:
       organization:
         required: true
-      project_Key:
+      project_key:
         required: true
 name: Main Workflow
 jobs:
